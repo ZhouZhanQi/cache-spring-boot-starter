@@ -3,7 +3,6 @@ package com.mengcc.cache.config;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.mengcc.cache.model.enums.CacheTypeEnum;
 import lombok.Data;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
